@@ -1,0 +1,4 @@
+A24|Bus|38|Madrid|4|26|Sevilla
+DK009|Flight|D21|Tokio|15|A3|NewYork
+12|Train||Fukuoka|||Tokio
+BB01|Flight|BB038|NewYork|4|26|Madrid
